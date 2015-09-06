@@ -16,6 +16,7 @@ test new1 branch
 				<option value="zamena">Замена</option>
 			</select>
 			<input type="submit" >
+test new2 branch
 		</form>
 		<br>
 		<div id="result_crypt">
